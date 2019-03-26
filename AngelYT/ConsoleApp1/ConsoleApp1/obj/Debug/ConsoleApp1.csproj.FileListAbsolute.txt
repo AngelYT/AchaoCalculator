@@ -1,0 +1,7 @@
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\TSBrowserDownloads\AchaoCalculator\AngelYT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
